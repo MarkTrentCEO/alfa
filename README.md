@@ -59,7 +59,7 @@ Build
 ----------------------
 1.  Clone the source:
 
-        git clone https://github.com/alfapr0ject/core
+        git clone https://github.com/alfapr0ject/alfa
 
 2.  Build alfa:
 
